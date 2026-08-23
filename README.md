@@ -23,7 +23,7 @@ This lab is designed to show practical understanding of how support tickets move
 |---|---|---|
 | Lab 01 | Ticketing System Setup | Complete |
 | Lab 02 | Ticket Categories, Priorities, and Statuses | Complete |
-| Lab 03 | Creating Support Tickets | Not Started |
+| Lab 03 | Creating Support Tickets | Complete |
 | Lab 04 | Updating, Assigning, and Resolving Tickets | Not Started |
 | Lab 05 | Ticket Closure Notes and Documentation | Not Started |
 | Lab 06 | Final Service Desk Workflow Summary | Not Started |
@@ -32,10 +32,16 @@ This lab is designed to show practical understanding of how support tickets move
 
 - [Lab 01 — Ticketing System Setup](notes/lab-01-ticketing-system-setup.md)
 - [Lab 02 — Ticket Categories, Priorities, and Statuses](notes/lab-02-ticket-categories-priorities-statuses.md)
+- [Lab 03 — Creating Support Tickets](notes/lab-03-creating-support-tickets.md)
 
 ## Sample Tickets
 
 - [Ticket 01 — User Cannot Access Internal Shared Drive](sample-tickets/ticket-01-shared-drive-access.md)
+- [Ticket 02 — User Unable to Log In After Password Reset](sample-tickets/ticket-02-password-reset-login-issue.md)
+- [Ticket 03 — User Laptop Running Slowly](sample-tickets/ticket-03-slow-laptop-performance.md)
+- [Ticket 04 — User Cannot Connect to Wi-Fi](sample-tickets/ticket-04-wifi-connectivity-issue.md)
+- [Ticket 05 — New Starter Needs Account Setup](sample-tickets/ticket-05-new-starter-account-setup.md)
+  
 ## Screenshots
 
 ### Lab 01 — Ticketing System Setup
@@ -59,6 +65,32 @@ This lab is designed to show practical understanding of how support tickets move
 ![Status Options](screenshots/08-status-options.png)
 
 ![Category Options](screenshots/09-category-options.png)
+
+### Lab 03 — Creating Support Tickets
+
+![Password Reset Ticket Form](screenshots/10-password-reset-ticket-form.png)
+
+![Password Reset Ticket Created](screenshots/11-password-reset-ticket-created.png)
+
+![Password Reset Ticket Details](screenshots/12-password-reset-ticket-details.png)
+
+![Slow Laptop Ticket Form](screenshots/13-slow-laptop-ticket-form.png)
+
+![Slow Laptop Ticket Created](screenshots/14-slow-laptop-ticket-created.png)
+
+![Slow Laptop Ticket Details](screenshots/15-slow-laptop-ticket-details.png)
+
+![Wi-Fi Connectivity Ticket Form](screenshots/16-wifi-connectivity-ticket-form.png)
+
+![Wi-Fi Connectivity Ticket Created](screenshots/17-wifi-connectivity-ticket-created.png)
+
+![Wi-Fi Connectivity Ticket Details](screenshots/18-wifi-connectivity-ticket-details.png)
+
+![New Starter Ticket Form](screenshots/19-new-starter-ticket-form.png)
+
+![New Starter Ticket Created](screenshots/20-new-starter-ticket-created.png)
+
+![New Starter Ticket Details](screenshots/21-new-starter-ticket-details.png)
 
 ## Workflow Documentation
 
