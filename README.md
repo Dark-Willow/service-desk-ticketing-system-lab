@@ -21,7 +21,7 @@ This lab is designed to show practical understanding of how support tickets move
 
 | Lab | Topic | Status |
 |---|---|---|
-| Lab 01 | Ticketing System Setup | In Progress |
+| Lab 01 | Ticketing System Setup | Complete |
 | Lab 02 | Ticket Categories, Priorities, and Statuses | Not Started |
 | Lab 03 | Creating Support Tickets | Not Started |
 | Lab 04 | Updating, Assigning, and Resolving Tickets | Not Started |
@@ -34,7 +34,20 @@ This lab is designed to show practical understanding of how support tickets move
 
 ## Sample Tickets
 
-Sample tickets will be added during the lab.
+- [Ticket 01 — User Cannot Access Internal Shared Drive](sample-tickets/ticket-01-shared-drive-access.md)
+## Screenshots
+
+### Lab 01 — Ticketing System Setup
+
+![ServiceDesk Dashboard](screenshots/01-servicedesk-dashboard.png)
+
+![Requests Page](screenshots/02-requests-page.png)
+
+![New Request Form](screenshots/03-new-request-form.png)
+
+![First Ticket Created](screenshots/04-first-ticket-created.png)
+
+![Ticket Details View](screenshots/05-ticket-details-view.png)
 
 ## Workflow Documentation
 
@@ -55,4 +68,8 @@ Workflow notes will be added during the lab.
 
 ## What I Learned
 
-This section will be updated as the lab progresses.
+In Lab 01, I set up a ManageEngine ServiceDesk Plus cloud lab and created my first incident ticket.
+
+I practised logging a user access issue, setting the ticket status and priority, assigning a technician, choosing a support group, categorising the issue, and writing an initial troubleshooting note.
+
+This helped me understand how service desk tickets are used to document user issues, track ownership, record troubleshooting steps, and support a clear incident management workflow.
