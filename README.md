@@ -22,7 +22,7 @@ This lab is designed to show practical understanding of how support tickets move
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Ticketing System Setup | Complete |
-| Lab 02 | Ticket Categories, Priorities, and Statuses | Not Started |
+| Lab 02 | Ticket Categories, Priorities, and Statuses | Complete |
 | Lab 03 | Creating Support Tickets | Not Started |
 | Lab 04 | Updating, Assigning, and Resolving Tickets | Not Started |
 | Lab 05 | Ticket Closure Notes and Documentation | Not Started |
@@ -31,6 +31,7 @@ This lab is designed to show practical understanding of how support tickets move
 ## Lab Notes
 
 - [Lab 01 — Ticketing System Setup](notes/lab-01-ticketing-system-setup.md)
+- [Lab 02 — Ticket Categories, Priorities, and Statuses](notes/lab-02-ticket-categories-priorities-statuses.md)
 
 ## Sample Tickets
 
@@ -48,6 +49,16 @@ This lab is designed to show practical understanding of how support tickets move
 ![First Ticket Created](screenshots/04-first-ticket-created.png)
 
 ![Ticket Details View](screenshots/05-ticket-details-view.png)
+
+### Lab 02 — Ticket Categories, Priorities, and Statuses
+
+![Ticket Classification Fields](screenshots/06-ticket-classification-fields.png)
+
+![Priority Options](screenshots/07-priority-options.png)
+
+![Status Options](screenshots/08-status-options.png)
+
+![Category Options](screenshots/09-category-options.png)
 
 ## Workflow Documentation
 
