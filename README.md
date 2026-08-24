@@ -24,7 +24,7 @@ This lab is designed to show practical understanding of how support tickets move
 | Lab 01 | Ticketing System Setup | Complete |
 | Lab 02 | Ticket Categories, Priorities, and Statuses | Complete |
 | Lab 03 | Creating Support Tickets | Complete |
-| Lab 04 | Updating, Assigning, and Resolving Tickets | Not Started |
+| Lab 04 | Updating, Assigning, and Resolving Tickets | Complete |
 | Lab 05 | Ticket Closure Notes and Documentation | Not Started |
 | Lab 06 | Final Service Desk Workflow Summary | Not Started |
 
@@ -33,6 +33,7 @@ This lab is designed to show practical understanding of how support tickets move
 - [Lab 01 — Ticketing System Setup](notes/lab-01-ticketing-system-setup.md)
 - [Lab 02 — Ticket Categories, Priorities, and Statuses](notes/lab-02-ticket-categories-priorities-statuses.md)
 - [Lab 03 — Creating Support Tickets](notes/lab-03-creating-support-tickets.md)
+- [Lab 04 — Updating, Assigning, and Resolving Tickets](notes/lab-04-updating-assigning-resolving-tickets.md)
 
 ## Sample Tickets
 
@@ -91,6 +92,32 @@ This lab is designed to show practical understanding of how support tickets move
 ![New Starter Ticket Created](screenshots/20-new-starter-ticket-created.png)
 
 ![New Starter Ticket Details](screenshots/21-new-starter-ticket-details.png)
+
+### Lab 04 — Updating, Assigning, and Resolving Tickets
+
+![Password Reset Status In Progress](screenshots/22-password-reset-status-in-progress.png)
+
+![Password Reset Troubleshooting Note](screenshots/23-password-reset-troubleshooting-note.png)
+
+![Password Reset Ticket Resolved](screenshots/24-password-reset-ticket-resolved.png)
+
+![Slow Laptop Status In Progress](screenshots/25-slow-laptop-status-in-progress.png)
+
+![Slow Laptop Troubleshooting Note](screenshots/26-slow-laptop-troubleshooting-note.png)
+
+![Slow Laptop Ticket Resolved](screenshots/27-slow-laptop-ticket-resolved.png)
+
+![Wi-Fi Status In Progress](screenshots/28-wifi-status-in-progress.png)
+
+![Wi-Fi Troubleshooting Note](screenshots/29-wifi-troubleshooting-note.png)
+
+![Wi-Fi Ticket Resolved](screenshots/30-wifi-ticket-resolved.png)
+
+![New Starter Status In Progress](screenshots/31-new-starter-status-in-progress.png)
+
+![New Starter Request Update Note](screenshots/32-new-starter-request-update-note.png)
+
+![New Starter Ticket Resolved](screenshots/33-new-starter-ticket-resolved.png)
 
 ## Workflow Documentation
 
