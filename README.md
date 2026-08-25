@@ -26,7 +26,7 @@ This lab is designed to show practical understanding of how support tickets move
 | Lab 03 | Creating Support Tickets | Complete |
 | Lab 04 | Updating, Assigning, and Resolving Tickets | Complete |
 | Lab 05 | Ticket Closure Notes and Documentation | Complete |
-| Lab 06 | Final Service Desk Workflow Summary | Not Started |
+| Lab 06 | Final Service Desk Workflow Summary | Complete |
 
 ## Lab Notes
 
@@ -35,6 +35,7 @@ This lab is designed to show practical understanding of how support tickets move
 - [Lab 03 — Creating Support Tickets](notes/lab-03-creating-support-tickets.md)
 - [Lab 04 — Updating, Assigning, and Resolving Tickets](notes/lab-04-updating-assigning-resolving-tickets.md)
 - [Lab 05 — Ticket Closure Notes and Documentation](notes/lab-05-ticket-closure-notes-documentation.md)
+- [Lab 06 — Final Service Desk Workflow Summary](notes/lab-06-final-service-desk-workflow-summary.md)
 
 ## Sample Tickets
 
@@ -138,9 +139,13 @@ This lab is designed to show practical understanding of how support tickets move
 
 ![New Starter Ticket Closed](screenshots/41-new-starter-ticket-closed.png)
 
+### Lab 06 — Final Service Desk Workflow Summary
+
+![Final Ticket List View](screenshots/42-final-ticket-list-view.png)
+
 ## Workflow Documentation
 
-Workflow notes will be added during the lab.
+- [Service Desk Ticket Lifecycle](workflow/service-desk-ticket-lifecycle.md)
 
 ## Skills Practised
 
