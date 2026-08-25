@@ -25,7 +25,7 @@ This lab is designed to show practical understanding of how support tickets move
 | Lab 02 | Ticket Categories, Priorities, and Statuses | Complete |
 | Lab 03 | Creating Support Tickets | Complete |
 | Lab 04 | Updating, Assigning, and Resolving Tickets | Complete |
-| Lab 05 | Ticket Closure Notes and Documentation | Not Started |
+| Lab 05 | Ticket Closure Notes and Documentation | Complete |
 | Lab 06 | Final Service Desk Workflow Summary | Not Started |
 
 ## Lab Notes
@@ -34,6 +34,7 @@ This lab is designed to show practical understanding of how support tickets move
 - [Lab 02 — Ticket Categories, Priorities, and Statuses](notes/lab-02-ticket-categories-priorities-statuses.md)
 - [Lab 03 — Creating Support Tickets](notes/lab-03-creating-support-tickets.md)
 - [Lab 04 — Updating, Assigning, and Resolving Tickets](notes/lab-04-updating-assigning-resolving-tickets.md)
+- [Lab 05 — Ticket Closure Notes and Documentation](notes/lab-05-ticket-closure-notes-documentation.md)
 
 ## Sample Tickets
 
@@ -118,6 +119,24 @@ This lab is designed to show practical understanding of how support tickets move
 ![New Starter Request Update Note](screenshots/32-new-starter-request-update-note.png)
 
 ![New Starter Ticket Resolved](screenshots/33-new-starter-ticket-resolved.png)
+
+### Lab 05 — Ticket Closure Notes and Documentation
+
+![Password Reset User Confirmation](screenshots/34-password-reset-user-confirmation.png)
+
+![Password Reset Ticket Closed](screenshots/35-password-reset-ticket-closed.png)
+
+![Slow Laptop User Confirmation](screenshots/36-slow-laptop-user-confirmation.png)
+
+![Slow Laptop Ticket Closed](screenshots/37-slow-laptop-ticket-closed.png)
+
+![Wi-Fi User Confirmation](screenshots/38-wifi-user-confirmation.png)
+
+![Wi-Fi Ticket Closed](screenshots/39-wifi-ticket-closed.png)
+
+![New Starter Requester Confirmation](screenshots/40-new-starter-requester-confirmation.png)
+
+![New Starter Ticket Closed](screenshots/41-new-starter-ticket-closed.png)
 
 ## Workflow Documentation
 
